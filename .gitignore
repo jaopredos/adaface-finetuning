@@ -1,0 +1,5 @@
+data/
+checkpoints/
+checkpoints_*
+logs/
+adaface_ir50_ms1mv2.ckpt
